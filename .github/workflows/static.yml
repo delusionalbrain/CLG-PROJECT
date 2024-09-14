@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>METRO LINES</title>
+    <style>
+        h1{color: rgb(4, 7, 10);text-align: center;}
+        table, th, td {border:2px solid rgb(236, 17, 17);}
+    </style>
+</head>
+<body>
+<h1>Here, you can see all the metro lines.</h1>
+<table style="width:90%">
+    <tr>
+        <th>Line colour</th>
+        <th>Route</th>
+        <th>Famous spots</th>
+    </tr>
+    <tr>
+        <td style="color: blue;">Blue line</td>
+        <td>Vaishali-Dwarka/Vaishali-Noida</td>
+        <td><kk ><a href="https://www.dlfmallofindia.com/">Noida Electronic City</a></kk>, 
+        <ll><a href="https://en.wikipedia.org/wiki/Connaught_Place,_New_Delhi">Rajiv Chowk</a> </ll></td>
+    </tr>
+    <tr> 
+        <td style="color: violet;">Violet line</td>
+        <td>Raja Nahar Singh-Kashmere Gate</td>
+        <td><oo><a href="https://en.wikipedia.org/wiki/Mandi_House"> Mandi House</a></oo>, <pp><a href="https://www.igdtuw.ac.in/">Kashmere Gate</a> </pp></td>
+    </tr>
+    <tr>
+        <td style="color: red;">Red line</td>
+        <td>Shaheed Sthal-Rithala</td>
+        <td><a href="https://www.tripadvisor.in/Restaurant_Review-g304551-d11616051-Reviews-Netaji_Subhash_Place-New_Delhi_National_Capital_Territory_of_Delhi.html"> Netaji Subhash Palace</a></td>
+    </tr>
+</table>
+
+</body>
+</html>
